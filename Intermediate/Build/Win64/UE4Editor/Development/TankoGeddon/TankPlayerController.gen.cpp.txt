@@ -1,0 +1,5 @@
+C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\Definitions.TankoGeddon.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\1\Documents\Unreal Projects\TankoGeddon\Source\TankoGeddon/TankPlayerController.h
+C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Inc\TankoGeddon\TankPlayerController.generated.h

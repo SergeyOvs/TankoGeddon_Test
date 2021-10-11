@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TankoGeddon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BDD60286-E802-4491-8911-9FBE5C617C61}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TankoGeddon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TankoGeddonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CF3ED3F1-7CEC-4B27-8B43-69127B911EA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TankoGeddon">
+      <UniqueIdentifier>{2148A734-9D0D-45CF-AE6A-3EBCE8665AE3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TankoGeddon\Cannon.cpp">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankoGeddon\Cannon.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TankoGeddon\GameStructs.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TankoGeddon\TankoGeddon.Build.cs">
+      <Filter>Source\TankoGeddon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TankoGeddon\TankoGeddon.cpp">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankoGeddon\TankoGeddon.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TankoGeddon\TankoGeddonGameModeBase.cpp">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankoGeddon\TankoGeddonGameModeBase.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TankoGeddon\TankPawn.cpp">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankoGeddon\TankPawn.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TankoGeddon\TankPlayerController.cpp">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankoGeddon\TankPlayerController.h">
+      <Filter>Source\TankoGeddon</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

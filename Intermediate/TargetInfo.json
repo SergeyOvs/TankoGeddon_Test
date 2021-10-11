@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TankoGeddon",
+			"Path": "C:\\Users\\1\\Documents\\Unreal Projects\\TankoGeddon\\Source\\TankoGeddon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TankoGeddonEditor",
+			"Path": "C:\\Users\\1\\Documents\\Unreal Projects\\TankoGeddon\\Source\\TankoGeddonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

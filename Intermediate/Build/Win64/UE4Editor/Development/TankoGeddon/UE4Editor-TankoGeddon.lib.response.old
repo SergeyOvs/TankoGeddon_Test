@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TankoGeddon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\TankoGeddonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankoGeddon.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankoGeddonGameModeBase.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankPawn.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankPlayerController.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\GameStructs.gen.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankoGeddon.init.gen.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankoGeddonGameModeBase.gen.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankPawn.gen.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\TankPlayerController.gen.cpp.obj"
+"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\Default.rc2.res"
+/OUT:"C:\Users\1\Documents\Unreal Projects\TankoGeddon\Intermediate\Build\Win64\UE4Editor\Development\TankoGeddon\UE4Editor-TankoGeddon.lib"
+/INCLUDE:IMPLEMENT_MODULE_TankoGeddon
